@@ -1,3 +1,41 @@
+import img_23_1_6526_jpeg from "./assets/images/23-1_6526.jpeg";
+import img_23_10_jpeg from "./assets/images/23-10.jpeg";
+import img_23_11_jpeg from "./assets/images/23-11.jpeg";
+import img_23_12_jpeg from "./assets/images/23-12.jpeg";
+import img_23_13_jpeg from "./assets/images/23-13.jpeg";
+import img_23_14_jpeg from "./assets/images/23-14.jpeg";
+import img_23_15_jpeg from "./assets/images/23-15.jpeg";
+import img_23_16_jpeg from "./assets/images/23-16.jpeg";
+import img_23_17_jpg from "./assets/images/23-17.jpg";
+import img_23_18_jpeg from "./assets/images/23-18.jpeg";
+import img_23_19_jpeg from "./assets/images/23-19.jpeg";
+import img_23_2_jpeg from "./assets/images/23-2.jpeg";
+import img_23_20_jpeg from "./assets/images/23-20.jpeg";
+import img_23_22_jpeg from "./assets/images/23-22.jpeg";
+import img_23_23_jpeg from "./assets/images/23-23.jpeg";
+import img_23_24_jpeg from "./assets/images/23-24.jpeg";
+import img_23_25_jpeg from "./assets/images/23-25.jpeg";
+import img_23_26_jpeg from "./assets/images/23-26.jpeg";
+import img_23_27_jpeg from "./assets/images/23-27.jpeg";
+import img_23_28_jpeg from "./assets/images/23-28.jpeg";
+import img_23_29_jpeg from "./assets/images/23-29.jpeg";
+import img_23_3_jpeg from "./assets/images/23-3.jpeg";
+import img_23_31_jpeg from "./assets/images/23-31.jpeg";
+import img_23_32_jpeg from "./assets/images/23-32.jpeg";
+import img_23_4_jpeg from "./assets/images/23-4.jpeg";
+import img_23_5_jpeg from "./assets/images/23-5.jpeg";
+import img_23_6_jpeg from "./assets/images/23-6.jpeg";
+import img_23_7_jpeg from "./assets/images/23-7.jpeg";
+import img_23_8_jpeg from "./assets/images/23-8.jpeg";
+import img_23_9_jpeg from "./assets/images/23-9.jpeg";
+import img_Capa70s_jpg from "./assets/images/Capa70s.jpg";
+import img_CapaChill_png from "./assets/images/CapaChill.png";
+import img_CapaLibertei_png from "./assets/images/CapaLibertei.png";
+import img_CapaLov_jpg from "./assets/images/CapaLov.jpg";
+import img_CapaReggae_jpg from "./assets/images/CapaReggae.jpg";
+import img_Rock_jpg from "./assets/images/Rock.jpg";
+import img_carro_0860_jpg from "./assets/images/carro_0860.jpg";
+
 export const products = [
   {
     id: 1,
@@ -47,52 +85,52 @@ export const playlists = [
   {
     description: "Fleetwood Mac, Evinha, Roberta Flack, Tim Maia e muitos mais",
     title: "70s Mix",
-    src: "/Capa70s.jpg",
+    src: img_Capa70s_jpg,
     ctaText: "Listen now",
     ctaLink: "https://open.spotify.com/playlist/5cfqQnNJ2x1f4Rdjp9XNw8",
   },
   {
     description: "Bob Marley & The Wailers, Mato Seco, Soja, Gaia Piá entre outros",
     title: "Reggae Music",
-    src: "/CapaReggae.jpg",
+    src: img_CapaReggae_jpg,
     ctaText: "Listen now",
     ctaLink: "https://open.spotify.com/playlist/3hLQlF8upMg2TYRQZ9efxS",
   },
         {
     description: "Red Hot Chili Peppers, The Strokes, Wings, U2, Radiohead, Pearl Jam, Hoobastank e mais",
     title: "Smooth Rock",
-    src: "/Rock.jpg",
+    src: img_Rock_jpg,
     ctaText: "Listen now",
     ctaLink: "https://open.spotify.com/playlist/4g5ivFndhbIx0YCnYfc6Ei",
   },
   {
     description: "Rita Lee, Cassiano, Di Melo, Tim Maia, Trio Ternura, Sandra de Sá e muito mais",
     title: "Me Libertei",
-    src: "/CapaLibertei.png",
+    src: img_CapaLibertei_png,
     ctaText: "Listen now",
     ctaLink: "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m",
   },
   {
     description: " Sade, Frank Ocean, Amy Winehouse, Gotye, Damien Rice, Chris Isaak entre outros.",
     title: "Love Songs",
-    src: "/CapaLov.jpg",
+    src: img_CapaLov_jpg,
     ctaText: "Listen now",
     ctaLink: "hhttps://open.spotify.com/playlist/3gRHmtmQfItZafh5jdmmc8",
   },
     {
     description: "The Cure, TSHA, Milky Chance, Juice WRLD, Billie Eilish, Dr. Dre e mais",
     title: "Chill Out",
-    src: "/CapaChill.png",
+    src: img_CapaChill_png,
     ctaText: "Listen now",
     ctaLink: "https://open.spotify.com/playlist/4CeniohOsuMduz3XIGegnh",
   },
 ];
 
 export const lookbookSliderImages = [
-  "/23-18.jpeg",
-  "/23-1_6526.jpeg",
-  "/23-2.jpeg",
-  "/carro_0860.jpg",
+  img_23_18_jpeg,
+  img_23_1_6526_jpeg,
+  img_23_2_jpeg,
+  img_carro_0860_jpg,
   
 ];
 
@@ -100,151 +138,151 @@ export const lookbookImages = [
   {
     id: 1,
     className: "",
-    thumbnail: "/23-1_6526.jpeg",
+    thumbnail: img_23_1_6526_jpeg,
   },
   {
     id: 2,
     className: "",
-    thumbnail: "/23-16.jpeg",
+    thumbnail: img_23_16_jpeg,
   },
   {
     id: 3,
     className: "",
-    thumbnail: "/23-23.jpeg",
+    thumbnail: img_23_23_jpeg,
   },
   {
     id: 4,
     className: "",
-    thumbnail: "/23-10.jpeg",
+    thumbnail: img_23_10_jpeg,
   },
   {
     id: 5,
     className: "",
-    thumbnail: "/23-13.jpeg",
+    thumbnail: img_23_13_jpeg,
   },
   {
     id: 6,
     className: "",
-    thumbnail: "/23-12.jpeg",
+    thumbnail: img_23_12_jpeg,
   },
   {
     id: 7,
     className: "",
-    thumbnail: "/23-11.jpeg",
+    thumbnail: img_23_11_jpeg,
   },
   {
     id: 8,
     className: "",
-    thumbnail: "/23-24.jpeg",
+    thumbnail: img_23_24_jpeg,
   },
   {
     id: 9,
     className: "",
-    thumbnail: "/23-29.jpeg",
+    thumbnail: img_23_29_jpeg,
   },
   {
     id: 10,
     className: "",
-    thumbnail: "/23-8.jpeg",
+    thumbnail: img_23_8_jpeg,
   },
   {
     id: 11,
     className: "",
-    thumbnail: "/23-9.jpeg",
+    thumbnail: img_23_9_jpeg,
   },
   {
     id: 12,
     className: "",
-    thumbnail: "/23-31.jpeg",
+    thumbnail: img_23_31_jpeg,
   },
   {
     id: 13,
     className: "",
-    thumbnail: "/23-20.jpeg",
+    thumbnail: img_23_20_jpeg,
   },
   {
     id: 14,
     className: "",
-    thumbnail: "/23-32.jpeg",
+    thumbnail: img_23_32_jpeg,
   },
   {
     id: 15,
     className: "",
-    thumbnail: "/23-5.jpeg",
+    thumbnail: img_23_5_jpeg,
   },
   {
     id: 16,
     className: "",
-    thumbnail: "/23-19.jpeg",
+    thumbnail: img_23_19_jpeg,
   },
   {
     id: 17,
     className: "",
-    thumbnail: "/23-7.jpeg",
+    thumbnail: img_23_7_jpeg,
   },
   {
     id: 18,
     className: "",
-    thumbnail: "/23-28.jpeg",
+    thumbnail: img_23_28_jpeg,
   },
   {
     id: 19,
     className: "",
-    thumbnail: "/carro_0860.jpg",
+    thumbnail: img_carro_0860_jpg,
   },
   {
     id: 20,
     className: "",
-    thumbnail: "/23-2.jpeg",
+    thumbnail: img_23_2_jpeg,
   },
   {
     id: 21,
     className: "",
-    thumbnail: "/23-22.jpeg",
+    thumbnail: img_23_22_jpeg,
   },
   {
     id: 22,
     className: "",
-    thumbnail: "/23-27.jpeg",
+    thumbnail: img_23_27_jpeg,
   },
   {
     id: 23,
     className: "",
-    thumbnail: "/23-4.jpeg",
+    thumbnail: img_23_4_jpeg,
   },
   {
     id: 24,
     className: "",
-    thumbnail: "/23-6.jpeg",
+    thumbnail: img_23_6_jpeg,
   },
   {
     id: 25,
     className: "",
-    thumbnail: "/23-3.jpeg",
+    thumbnail: img_23_3_jpeg,
   },
   {
     id: 26,
     className: "",
-    thumbnail: "/23-15.jpeg",
+    thumbnail: img_23_15_jpeg,
   },
   {
     id: 27,
     className: "",
-    thumbnail: "/23-14.jpeg",
+    thumbnail: img_23_14_jpeg,
   },
   {
     id: 28,
     className: "",
-    thumbnail: "/23-26.jpeg",
+    thumbnail: img_23_26_jpeg,
   },
   {
     id: 29,
     className: "",
-    thumbnail: "/23-17.jpg",
+    thumbnail: img_23_17_jpg,
   },
   {
     id: 30,
     className: "",
-    thumbnail: "/23-25.jpeg",
+    thumbnail: img_23_25_jpeg,
   },
 ];
