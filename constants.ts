@@ -30,7 +30,7 @@ import img_23_8_jpeg from "./src/assets/images/23-8.jpeg";
 import img_23_9_jpeg from "./src/assets/images/23-9.jpeg";
 import img_Capa70s_jpg from "./src/assets/images/Capa70s.jpg";
 import img_CapaChill_png from "./src/assets/images/CapaChill.png";
-import img_CapaLibertei_png from "./src/assets/images/CpaLibertei.png";
+import img_CapaLibertei_png from "./src/assets/images/CapaLibertei.png";
 import img_CapaLov_jpg from "./src/assets/images/CapaLov.jpg";
 import img_CapaReggae_jpg from "./src/assets/images/CapaReggae.jpg";
 import img_Rock_jpg from "./src/assets/images/Rock.jpg";
